@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad9569b4-461d-4ef2-9481-f658f9305ff9" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/Week_01/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cLXenFahT4xOB9DhDd3PYnFEgp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad9569b4-461d-4ef2-9481-f658f9305ff9" name="默认更改列表" comment="" />
+      <created>1590308944819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590308944819</updated>
+    </task>
+    <task id="LOCAL-00001" summary="首次作业提交测试">
+      <created>1590310657439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590310657439</updated>
+    </task>
+    <task id="LOCAL-00002" summary="加一练习">
+      <created>1590310945006</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590310945006</updated>
+    </task>
+    <task id="LOCAL-00003" summary="加一练习">
+      <created>1590315670838</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590315670838</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第一周练习">
+      <created>1590331570379</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590331570379</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="首次作业提交测试" />
+    <MESSAGE value="加一练习" />
+    <MESSAGE value="第一周练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一周练习" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="579" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1590310531035">
+      <screen x="55" y="0" width="1385" height="900" />
+    </state>
+    <state x="579" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/55.0.1385.900@55.0.1385.900" timestamp="1590310531035" />
+    <state x="346" y="52" key="CommitChangelistDialog2" timestamp="1590332975328">
+      <screen x="49" y="0" width="1391" height="900" />
+    </state>
+    <state x="346" y="52" key="CommitChangelistDialog2/49.0.1391.900@49.0.1391.900" timestamp="1590332975328" />
+    <state x="351" y="52" key="CommitChangelistDialog2/55.0.1385.900@55.0.1385.900" timestamp="1590315670683" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1590309205097">
+      <screen x="61" y="23" width="1379" height="877" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/61.23.1379.877@61.23.1379.877" timestamp="1590309205097" />
+    <state x="310" y="190" key="Vcs.Push.Dialog.v2" timestamp="1590332978585">
+      <screen x="49" y="0" width="1391" height="900" />
+    </state>
+    <state x="310" y="190" key="Vcs.Push.Dialog.v2/49.0.1391.900@49.0.1391.900" timestamp="1590332978585" />
+    <state x="315" y="190" key="Vcs.Push.Dialog.v2/55.0.1385.900@55.0.1385.900" timestamp="1590315673368" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/61.0.1379.900@61.0.1379.900" timestamp="1590309363719" />
+    <state x="487" y="191" key="VcsDiffUtil.ChangesDialog" timestamp="1590309163975">
+      <screen x="61" y="0" width="1379" height="900" />
+    </state>
+    <state x="487" y="191" key="VcsDiffUtil.ChangesDialog/61.0.1379.900@61.0.1379.900" timestamp="1590309163975" />
+    <state x="475" y="248" key="git4idea.merge.GitMergeDialog" timestamp="1590309345869">
+      <screen x="61" y="0" width="1379" height="900" />
+    </state>
+    <state x="475" y="248" key="git4idea.merge.GitMergeDialog/61.0.1379.900@61.0.1379.900" timestamp="1590309345869" />
+  </component>
+</project>

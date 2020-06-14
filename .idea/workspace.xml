@@ -2,14 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad9569b4-461d-4ef2-9481-f658f9305ff9" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/Week_01/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/findContentChildren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/lemonadeChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/maxProfit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="algorithm009-class01" />
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cLXenFahT4xOB9DhDd3PYnFEgp" />
@@ -61,7 +73,35 @@
       <option name="project" value="LOCAL" />
       <updated>1590331570379</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第一周练习总结">
+      <created>1590332975590</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590332975590</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第一周练习总结">
+      <created>1590333087806</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590333087806</updated>
+    </task>
+    <task id="LOCAL-00007" summary="第二周练习总结">
+      <created>1590936412461</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590936412461</updated>
+    </task>
+    <task id="LOCAL-00008" summary="第二周练习总结">
+      <created>1590937156150</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590937156150</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,35 +139,52 @@
     <MESSAGE value="首次作业提交测试" />
     <MESSAGE value="加一练习" />
     <MESSAGE value="第一周练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一周练习" />
+    <MESSAGE value="第一周练习总结" />
+    <MESSAGE value="第二周练习总结" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二周练习总结" />
   </component>
   <component name="WindowStateProjectService">
     <state x="579" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1590310531035">
       <screen x="55" y="0" width="1385" height="900" />
     </state>
     <state x="579" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/55.0.1385.900@55.0.1385.900" timestamp="1590310531035" />
-    <state x="346" y="52" key="CommitChangelistDialog2" timestamp="1590332975328">
-      <screen x="49" y="0" width="1391" height="900" />
+    <state x="358" y="52" key="CommitChangelistDialog2" timestamp="1590937155942">
+      <screen x="64" y="0" width="1376" height="900" />
     </state>
-    <state x="346" y="52" key="CommitChangelistDialog2/49.0.1391.900@49.0.1391.900" timestamp="1590332975328" />
+    <state x="346" y="52" key="CommitChangelistDialog2/49.0.1391.900@49.0.1391.900" timestamp="1590333087572" />
     <state x="351" y="52" key="CommitChangelistDialog2/55.0.1385.900@55.0.1385.900" timestamp="1590315670683" />
-    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1590309205097">
-      <screen x="61" y="23" width="1379" height="877" />
-    </state>
-    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/61.23.1379.877@61.23.1379.877" timestamp="1590309205097" />
-    <state x="310" y="190" key="Vcs.Push.Dialog.v2" timestamp="1590332978585">
+    <state x="358" y="52" key="CommitChangelistDialog2/64.0.1376.900@64.0.1376.900" timestamp="1590937155941" />
+    <state x="88" y="79" width="1240" height="700" key="DiffContextDialog" timestamp="1590333114832">
       <screen x="49" y="0" width="1391" height="900" />
     </state>
-    <state x="310" y="190" key="Vcs.Push.Dialog.v2/49.0.1391.900@49.0.1391.900" timestamp="1590332978585" />
+    <state x="88" y="79" key="DiffContextDialog/49.0.1391.900@49.0.1391.900" timestamp="1590333114832" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/61.23.1379.877@61.23.1379.877" timestamp="1590309205097" />
+    <state x="322" y="190" key="Vcs.Push.Dialog.v2" timestamp="1590937169479">
+      <screen x="64" y="0" width="1376" height="900" />
+    </state>
+    <state x="310" y="190" key="Vcs.Push.Dialog.v2/49.0.1391.900@49.0.1391.900" timestamp="1590333120423" />
     <state x="315" y="190" key="Vcs.Push.Dialog.v2/55.0.1385.900@55.0.1385.900" timestamp="1590315673368" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/61.0.1379.900@61.0.1379.900" timestamp="1590309363719" />
+    <state x="322" y="190" key="Vcs.Push.Dialog.v2/64.0.1376.900@64.0.1376.900" timestamp="1590937169479" />
     <state x="487" y="191" key="VcsDiffUtil.ChangesDialog" timestamp="1590309163975">
       <screen x="61" y="0" width="1379" height="900" />
     </state>
     <state x="487" y="191" key="VcsDiffUtil.ChangesDialog/61.0.1379.900@61.0.1379.900" timestamp="1590309163975" />
+    <state x="415" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1590935678338">
+      <screen x="61" y="0" width="1379" height="900" />
+    </state>
+    <state x="415" y="282" key="com.intellij.ide.util.TipDialog/61.0.1379.900@61.0.1379.900" timestamp="1590935678338" />
     <state x="475" y="248" key="git4idea.merge.GitMergeDialog" timestamp="1590309345869">
       <screen x="61" y="0" width="1379" height="900" />
     </state>
     <state x="475" y="248" key="git4idea.merge.GitMergeDialog/61.0.1379.900@61.0.1379.900" timestamp="1590309345869" />
+    <state x="379" y="248" key="git4idea.merge.GitPullDialog" timestamp="1590936605019">
+      <screen x="64" y="0" width="1376" height="900" />
+    </state>
+    <state x="379" y="248" key="git4idea.merge.GitPullDialog/64.0.1376.900@64.0.1376.900" timestamp="1590936605019" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1590582785849">
+      <screen x="53" y="0" width="1387" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/53.0.1387.900@53.0.1387.900" timestamp="1590582785849" />
   </component>
 </project>
